@@ -1,0 +1,68 @@
+#body{
+  background-color: rgb(210,210,210);
+}
+.navbar{
+  height: 75px;];
+  font-size: 18px;
+}
+#navTitle{
+  font-size: 24px;
+}
+#titleMain{
+  text-align: center;
+  color: white;
+  font-family: 'Gentleman';
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 48px;
+}
+.subTitle{
+  font-family: 'Gentleman';
+  color: white;
+  font-weight: bold;
+  background-color: rgb(31, 22, 150);
+  width: 25%;
+  text-align: right;
+}
+#aboutP, #graphP, #actionP, #concP{
+  margin: 20px;
+  font-family: georgia;
+  color: rgb(50, 50, 50);
+  font-size: 18px;
+}
+#graphP{
+  font-weight: bold;
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
+.colTitle{
+  font-weight: bold;
+  font-family: 'Gentleman';
+  text-align: center;
+  font-size: 24px;
+}
+#tp-margin{
+  margin-top: 20px;
+}
+.instLinks{
+  padding-top: 18%
+}
+#ourWorldAnchor{
+  font-size: 14px;
+  font-family: 'Gentleman';
+  text-align: center;
+}
+#conclusion{
+  margin-top: 50px;
+}
+#thanks{
+  text-align: center;
+  color: white;
+  font-family: 'Gentleman';
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 48px;
+}
